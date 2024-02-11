@@ -1,0 +1,44 @@
+p{
+    font-size: 1.2em;
+}
+.section1{
+    height: 400px;
+    background-color: lightblue;
+}
+.section2{
+    height: 400px;
+    background-color: plum;
+}
+.section3{
+    height: 400px;
+    background-color: lightgreen;
+}
+.section1 h2{
+    background-color: rgb(91, 158, 217);
+}
+.section2 h2{
+    background-color: pink;
+}
+.section3 h2{
+    background-color: greenyellow;
+}
+
+
+.navbar-default .navbar-toggle:hover {
+    background: plum;
+}
+
+.navbar{
+    background-color: rgb(113, 113, 219);
+}
+
+.navbar-header .navbar-brand{
+    color:black;
+}
+.navbar-nav li.visible-xs a[href="#"]
+{
+    color: black;
+}
+.navbar-nav li.visible-xs a[href="#"]:hover{
+    background-color: orange;
+}
